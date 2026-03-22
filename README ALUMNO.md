@@ -21,7 +21,7 @@ El trabajo consiste en crear un div en la cual se agregue un codigo QR y un pequ
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [https://github.com/Edgar0509V/Ejercicio-1-QR.git]  
-Deploy: []
+Deploy: [https://ejercicio-1-qr.vercel.app/]
 ---
 
 ## 📝 Reflexión
